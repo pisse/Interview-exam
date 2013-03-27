@@ -1,5 +1,7 @@
 1.css sprite的优缺点
 2.html css的兼容性bug（至少六个）
+    2.1 ie6下双边距的bug，解决办法：display:inline;
+    2.2 
 3.banner(1600*450)在频幕分辨率变化时只显示中间部分
 4.margin-top在塌陷时候怎么解决
 5.清除浮动
